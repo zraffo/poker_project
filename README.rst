@@ -46,5 +46,7 @@ This package was created with Cookiecutter_ and the `audreyr/cookiecutter-pypack
 - [ ] TODO
 
 ## Authors
+
 * **Zack Raffo** - [Github](https://github.com/zraffo)
+
 * **Allyson Vakhovskaya** - [Github](https://github.com/AllysonV)
